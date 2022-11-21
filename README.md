@@ -1,2 +1,2 @@
 # Configuration
-From @Cuttlefish
+Thanks @Cuttlefish
